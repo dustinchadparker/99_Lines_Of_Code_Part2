@@ -1,15 +1,17 @@
+/* Very simple css for the song.*/
+
 body {
-    background-color: black;
+  background-color: black;
 }
 
 h1 {
-    color: red;
+  color: red;
 }
 
 .friend {
-    background-color: gray;
+  background-color: gray;
 }
 
 .friend h3 {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
